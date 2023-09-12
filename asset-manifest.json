@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Shopping_Cart/static/css/main.ebe43327.css",
+    "main.js": "/Shopping_Cart/static/js/main.b1b8ef08.js",
+    "static/media/googleLogo.png": "/Shopping_Cart/static/media/googleLogo.7dbc7ea39eb97007c7f4.png",
+    "index.html": "/Shopping_Cart/index.html",
+    "main.ebe43327.css.map": "/Shopping_Cart/static/css/main.ebe43327.css.map",
+    "main.b1b8ef08.js.map": "/Shopping_Cart/static/js/main.b1b8ef08.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ebe43327.css",
+    "static/js/main.b1b8ef08.js"
+  ]
+}
